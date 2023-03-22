@@ -1,1 +1,1 @@
-#singup form project for THE ODIN PROJECT
+# SIGNUP form project for THE ODIN PROJECT
